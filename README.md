@@ -42,6 +42,14 @@ El proyecto "Almacén de Custom Hooks" está diseñado para ser un repositorio c
 
 Este proyecto es una herramienta valiosa para cualquier desarrollador que busque mejorar la eficiencia y calidad de sus aplicaciones React mediante la reutilización de lógica común y bien documentada.
 
+## Creator
+
+[JessyAvalosB](https://github.com/JessyAvalosB)
+
+## Collaborators
+
+- [Chucky22Mendoza](https://github.com/Chucky22Mendoza)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
